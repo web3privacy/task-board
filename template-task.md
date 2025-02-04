@@ -20,6 +20,10 @@ Reward for completion: [amount, coin]
 
 TL;DR: [summary of Task, timeline, reward amount and coin]
 
+Link to repository:
+
+Other Links: 
+
 # Task specifications
 
 - Specification 1: [text]
